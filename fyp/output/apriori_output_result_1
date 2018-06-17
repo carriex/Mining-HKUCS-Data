@@ -1,0 +1,276 @@
+Result  1
+itemset:{NA-QSRanking}
+Support: 0.3611111111111111
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['NA-QSRanking']
+    confidence:  0.3611111111111111
+    lift:  1.0
+Result  2
+itemset:{fail}
+Support: 0.38333333333333336
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['fail']
+    confidence:  0.38333333333333336
+    lift:  1.0
+Result  3
+itemset:{high-GPA}
+Support: 0.4222222222222222
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['high-GPA']
+    confidence:  0.4222222222222222
+    lift:  1.0
+Result  4
+itemset:{high-QSRanking}
+Support: 0.31666666666666665
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['high-QSRanking']
+    confidence:  0.31666666666666665
+    lift:  1.0
+Result  5
+itemset:{low-GPA}
+Support: 0.5777777777777777
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['low-GPA']
+    confidence:  0.5777777777777777
+    lift:  1.0
+Result  6
+itemset:{low-QSRanking}
+Support: 0.32222222222222224
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['low-QSRanking']
+    confidence:  0.32222222222222224
+    lift:  1.0
+Result  7
+itemset:{pass}
+Support: 0.6166666666666667
+Ordered_statistics:
+  items_base:  []
+    items_add:  ['pass']
+    confidence:  0.6166666666666667
+    lift:  1.0
+Result  8
+itemset:{NA-QSRanking, fail}
+Support: 0.23333333333333334
+Ordered_statistics:
+  items_base:  ['NA-QSRanking']
+    items_add:  ['fail']
+    confidence:  0.6461538461538462
+    lift:  1.68561872909699
+  items_base:  ['fail']
+    items_add:  ['NA-QSRanking']
+    confidence:  0.608695652173913
+    lift:  1.6856187290969897
+Result  9
+itemset:{NA-QSRanking, high-GPA}
+Support: 0.12777777777777777
+Ordered_statistics:
+  items_base:  ['NA-QSRanking']
+    items_add:  ['high-GPA']
+    confidence:  0.3538461538461538
+    lift:  0.8380566801619432
+  items_base:  ['high-GPA']
+    items_add:  ['NA-QSRanking']
+    confidence:  0.3026315789473684
+    lift:  0.8380566801619433
+Result  10
+itemset:{NA-QSRanking, low-GPA}
+Support: 0.23333333333333334
+Ordered_statistics:
+  items_base:  ['NA-QSRanking']
+    items_add:  ['low-GPA']
+    confidence:  0.6461538461538462
+    lift:  1.1183431952662723
+  items_base:  ['low-GPA']
+    items_add:  ['NA-QSRanking']
+    confidence:  0.4038461538461539
+    lift:  1.1183431952662723
+Result  11
+itemset:{NA-QSRanking, pass}
+Support: 0.12777777777777777
+Ordered_statistics:
+  items_base:  ['NA-QSRanking']
+    items_add:  ['pass']
+    confidence:  0.3538461538461538
+    lift:  0.5738045738045737
+  items_base:  ['pass']
+    items_add:  ['NA-QSRanking']
+    confidence:  0.20720720720720717
+    lift:  0.5738045738045737
+Result  12
+itemset:{fail, low-GPA}
+Support: 0.32222222222222224
+Ordered_statistics:
+  items_base:  ['fail']
+    items_add:  ['low-GPA']
+    confidence:  0.8405797101449275
+    lift:  1.4548494983277593
+  items_base:  ['low-GPA']
+    items_add:  ['fail']
+    confidence:  0.5576923076923078
+    lift:  1.4548494983277593
+Result  13
+itemset:{high-GPA, high-QSRanking}
+Support: 0.15
+Ordered_statistics:
+  items_base:  ['high-GPA']
+    items_add:  ['high-QSRanking']
+    confidence:  0.35526315789473684
+    lift:  1.1218836565096952
+  items_base:  ['high-QSRanking']
+    items_add:  ['high-GPA']
+    confidence:  0.4736842105263158
+    lift:  1.1218836565096955
+Result  14
+itemset:{high-GPA, low-QSRanking}
+Support: 0.14444444444444443
+Ordered_statistics:
+  items_base:  ['high-GPA']
+    items_add:  ['low-QSRanking']
+    confidence:  0.3421052631578947
+    lift:  1.0617059891107077
+  items_base:  ['low-QSRanking']
+    items_add:  ['high-GPA']
+    confidence:  0.44827586206896547
+    lift:  1.0617059891107077
+Result  15
+itemset:{high-GPA, pass}
+Support: 0.3611111111111111
+Ordered_statistics:
+  items_base:  ['high-GPA']
+    items_add:  ['pass']
+    confidence:  0.8552631578947368
+    lift:  1.386913229018492
+  items_base:  ['pass']
+    items_add:  ['high-GPA']
+    confidence:  0.5855855855855856
+    lift:  1.3869132290184922
+Result  16
+itemset:{high-QSRanking, low-GPA}
+Support: 0.16666666666666666
+Ordered_statistics:
+  items_base:  ['high-QSRanking']
+    items_add:  ['low-GPA']
+    confidence:  0.5263157894736842
+    lift:  0.9109311740890689
+  items_base:  ['low-GPA']
+    items_add:  ['high-QSRanking']
+    confidence:  0.2884615384615385
+    lift:  0.910931174089069
+Result  17
+itemset:{high-QSRanking, pass}
+Support: 0.25
+Ordered_statistics:
+  items_base:  ['high-QSRanking']
+    items_add:  ['pass']
+    confidence:  0.7894736842105263
+    lift:  1.2802275960170697
+  items_base:  ['pass']
+    items_add:  ['high-QSRanking']
+    confidence:  0.4054054054054054
+    lift:  1.2802275960170697
+Result  18
+itemset:{low-GPA, low-QSRanking}
+Support: 0.17777777777777778
+Ordered_statistics:
+  items_base:  ['low-GPA']
+    items_add:  ['low-QSRanking']
+    confidence:  0.3076923076923077
+    lift:  0.9549071618037135
+  items_base:  ['low-QSRanking']
+    items_add:  ['low-GPA']
+    confidence:  0.5517241379310345
+    lift:  0.9549071618037136
+Result  19
+itemset:{low-GPA, pass}
+Support: 0.25555555555555554
+Ordered_statistics:
+  items_base:  ['low-GPA']
+    items_add:  ['pass']
+    confidence:  0.4423076923076923
+    lift:  0.7172557172557172
+  items_base:  ['pass']
+    items_add:  ['low-GPA']
+    confidence:  0.41441441441441434
+    lift:  0.7172557172557172
+Result  20
+itemset:{low-QSRanking, pass}
+Support: 0.2388888888888889
+Ordered_statistics:
+  items_base:  ['low-QSRanking']
+    items_add:  ['pass']
+    confidence:  0.7413793103448276
+    lift:  1.2022367194780987
+  items_base:  ['pass']
+    items_add:  ['low-QSRanking']
+    confidence:  0.38738738738738737
+    lift:  1.2022367194780987
+Result  21
+itemset:{NA-QSRanking, fail, low-GPA}
+Support: 0.18888888888888888
+Ordered_statistics:
+  items_base:  ['NA-QSRanking', 'fail']
+    items_add:  ['low-GPA']
+    confidence:  0.8095238095238095
+    lift:  1.4010989010989012
+  items_base:  ['NA-QSRanking', 'low-GPA']
+    items_add:  ['fail']
+    confidence:  0.8095238095238095
+    lift:  2.111801242236025
+  items_base:  ['fail', 'low-GPA']
+    items_add:  ['NA-QSRanking']
+    confidence:  0.5862068965517241
+    lift:  1.6233421750663128
+Result  22
+itemset:{high-GPA, high-QSRanking, pass}
+Support: 0.13333333333333333
+Ordered_statistics:
+  items_base:  ['high-GPA', 'high-QSRanking']
+    items_add:  ['pass']
+    confidence:  0.888888888888889
+    lift:  1.4414414414414414
+  items_base:  ['high-GPA', 'pass']
+    items_add:  ['high-QSRanking']
+    confidence:  0.36923076923076925
+    lift:  1.1659919028340082
+  items_base:  ['high-QSRanking', 'pass']
+    items_add:  ['high-GPA']
+    confidence:  0.5333333333333333
+    lift:  1.263157894736842
+Result  23
+itemset:{high-GPA, low-QSRanking, pass}
+Support: 0.14444444444444443
+Ordered_statistics:
+  items_base:  ['high-GPA', 'low-QSRanking']
+    items_add:  ['pass']
+    confidence:  1.0
+    lift:  1.6216216216216215
+  items_base:  ['high-GPA', 'pass']
+    items_add:  ['low-QSRanking']
+    confidence:  0.39999999999999997
+    lift:  1.2413793103448274
+  items_base:  ['low-QSRanking', 'pass']
+    items_add:  ['high-GPA']
+    confidence:  0.6046511627906976
+    lift:  1.4320685434516522
+Result  24
+itemset:{high-QSRanking, low-GPA, pass}
+Support: 0.11666666666666667
+Ordered_statistics:
+  items_base:  ['high-QSRanking', 'low-GPA']
+    items_add:  ['pass']
+    confidence:  0.7000000000000001
+    lift:  1.135135135135135
+  items_base:  ['high-QSRanking', 'pass']
+    items_add:  ['low-GPA']
+    confidence:  0.4666666666666667
+    lift:  0.8076923076923078
+  items_base:  ['low-GPA', 'pass']
+    items_add:  ['high-QSRanking']
+    confidence:  0.4565217391304348
+    lift:  1.4416475972540048

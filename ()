@@ -1,0 +1,40 @@
+added boostrap
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   fyp/settings.py
+#	deleted:    fyp/static/assets/css/bootstrap-theme.css
+#	deleted:    fyp/static/assets/css/bootstrap-theme.css.map
+#	deleted:    fyp/static/assets/css/bootstrap-theme.min.css
+#	deleted:    fyp/static/assets/css/bootstrap-theme.min.css.map
+#	deleted:    fyp/static/assets/css/bootstrap.css
+#	deleted:    fyp/static/assets/css/bootstrap.css.map
+#	deleted:    fyp/static/assets/css/bootstrap.min.css
+#	deleted:    fyp/static/assets/css/bootstrap.min.css.map
+#	deleted:    fyp/static/assets/fonts/glyphicons-halflings-regular.eot
+#	deleted:    fyp/static/assets/fonts/glyphicons-halflings-regular.svg
+#	deleted:    fyp/static/assets/fonts/glyphicons-halflings-regular.ttf
+#	deleted:    fyp/static/assets/fonts/glyphicons-halflings-regular.woff
+#	deleted:    fyp/static/assets/fonts/glyphicons-halflings-regular.woff2
+#	deleted:    fyp/static/assets/js/bootstrap.js
+#	deleted:    fyp/static/assets/js/bootstrap.min.js
+#	deleted:    fyp/static/assets/js/npm.js
+#	modified:   fyp/templates/index.html
+#	modified:   fyp/urls.py
+#	modified:   fyp/views.py
+#
+# Untracked files:
+#	fyp/static/admin/
+#	fyp/static/boostrap/
+#	fyp/static/plugins/
+#	fyp/static/rest_framework/
+#	static/
+#:exit()
+:exti()
+"exit()
+:q
+
